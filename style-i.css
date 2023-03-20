@@ -1,0 +1,179 @@
+*{ margin:0; padding:0; box-sizing: border-box;  font-family: 'Fredoka One', cursive;}
+.container{
+    background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
+    max-width:400px;
+    height:500px;
+    display:flex;
+    margin-bottom:80px;
+    justify-content: space-between;
+    border-radius: 10px;
+    position:relative;
+    top:30px;
+    left:30%;
+
+
+}
+.search{
+    margin:30px;
+    width:300px;
+    height:50px;
+    border-radius: 50px;
+    border:none;
+    outline:0;
+    color:black;
+
+}
+.date-s{
+    margin-left:30px;
+    margin-top:0;
+    margin-bottom: 30px;
+
+    width:300px;
+    height:50px;
+    border-radius: 50px;
+    border:none;
+    outline:0;
+    color:black;
+
+}
+.date-e{
+    margin-left:30px;
+    margin-top:0;
+    margin-bottom: 30px;
+    
+    width:300px;
+    height:50px;
+    border-radius: 50px;
+    border:none;
+    outline:0;
+    color:black;
+
+}
+.num1{
+    margin-left:30px;
+    margin-top:0;
+    margin-bottom: 30px;
+    
+    width:300px;
+    height:50px;
+    border-radius: 50px;
+    border:none;
+    outline:0;
+    color:black;
+
+}
+.num2{
+    margin-left:30px;
+    margin-top:0;
+    margin-bottom: 30px;
+    
+    width:300px;
+    height:50px;
+    border-radius: 50px;
+    border:none;
+    outline:0;
+    color:black;
+
+}
+.set-trip{
+    display:block;
+    height:30px;
+    width:100px;
+    background:black;
+    color:white;
+    border-radius:50px;
+    text-decoration:none;
+    font-size:20px;
+    font-weight: 300;
+    margin-left: 150px;
+    text-align: center;
+
+    
+}
+.places h1{
+    font-size: 36px;
+    text-align:center;
+    margin-bottom: 30px;
+}
+.invite{
+    margin-left: 20px;
+    margin-top: 30px;
+    color:black;
+    font-weight: 300;
+}
+.cards{
+    width:300px;
+    height:300px;
+    border-radius: 5px;
+}
+.images{    
+    
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.cards:hover{
+    border:3px solid blue;
+
+}
+.hotels {
+    margin-bottom: 40px;
+}
+.hotel-h h1{
+    font-size: 36px;
+    text-align:center;
+    margin-bottom: 30px;
+}
+.hotel1 {
+    width:300px;
+    height:300px;
+    border-radius: 5px;
+}
+.hotel1:hover{
+    border:3px solid blue;
+
+}
+.sec-1{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
+.link2 {
+    font-size:28px;
+    margin-left:50px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    display: block;
+    text-decoration: none;
+    border-radius: 50px;
+    background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
+}
+.link1 {
+    font-size:28px;
+    margin-left:50px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 100px;
+    display: block;
+    text-decoration:none;
+    border-radius: 50px;
+    background-image: linear-gradient( 109.6deg, rgba(156,252,248,1) 11.2%, rgba(110,123,251,1) 91.1% );
+}
+.link1:hover{
+    color:aliceblue;
+}
+.link2:hover{
+    color:aliceblue;
+}
+.footer{
+    background:lightgrey;
+    width:100%;
+    height:100px;
+}
